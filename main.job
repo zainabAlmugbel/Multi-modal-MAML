@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH --job-name=kg_img             # Job name
+#SBATCH --mail-type=FAIL       # Mail events (NONE, BEGIN, END, FAIL, ALL)
+#SBATCH --mail-user=zha503@york.ac.uk    # Where to send mail 
+#SBATCH --ntasks=1                       # Run on a single CPU
+#SBATCH --mem=100gb                        # Job memory request
+#SBATCH --time=2-00:00:00                  # Time limit hrs:min:sec #--gres=gpu:1 
+#SBATCH --output=Exp9_%j.log        # Standard output log
+#SBATCH --error=Exp9_Error_%j.log        # Standard error log            
+#SBATCH --account=cs-sddata-2023         # Project account
+#SBATCH --partition=gpuplus            # Which partition  
+#SBATCH --gres=gpu:1  
+
+
+
+
+
+                    
+source activate uni_env
+module load libjpeg-turbo/2.1.5.1-GCCcore-12.3.0
+
+python train_fsl.py
+
+ 
+echo My working directory is `pwd`
+echo Running job on host:
+echo -e '\t'`hostname` at `date`
+echo
+echo
+echo Job completed at `date`

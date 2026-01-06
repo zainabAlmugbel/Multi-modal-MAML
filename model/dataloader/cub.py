@@ -87,7 +87,7 @@ class CUB(Dataset):
         self.tfidf_matrix = None
         image_size = 32
         self.transform_aug, self.transform = get_transforms(image_size, args.backbone_class)
-        self.text_size= 350
+        self.text_size= args.voc_size
 
         if args.text_encoder == 'TF_IDF':
             self.tfidf_vectorizer = TfidfVectorizer(max_features=self.text_size, ngram_range=(1,2), use_idf=True, norm='l2')

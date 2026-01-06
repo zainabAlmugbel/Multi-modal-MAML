@@ -12,10 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from model.dataloader.fastText import FastTextclass
 import pdb
 import itertools
-#from torchmultimodal.transforms.bert_text_transform import BertTextTransform
-from torchmultimodal.models.flava.model import flava_model
 
-from model.bert_flava_text import flava_text_only_approach,TextFeatureExtractor
 
 THIS_PATH = osp.dirname(__file__)
 ROOT_PATH = osp.abspath(osp.join(THIS_PATH, '..', '..'))
@@ -90,7 +87,7 @@ class Slake(Dataset):
         self.tfidf_matrix = None
 
         image_size = 32
-        self.text_size= 350
+        self.text_size= args.voc_size
         self.transform_aug, self.transform = get_transforms(image_size, args.backbone_class)
         if args.text_encoder == 'TF_IDF':
             self.tfidf_vectorizer = TfidfVectorizer(max_features=self.text_size, ngram_range=(1,2), use_idf=True, norm='l2')
@@ -98,11 +95,8 @@ class Slake(Dataset):
         elif args.text_encoder == 'FastText':
             self.fastencoder= FastTextclass()
         elif args.text_encoder == 'Transformer':
-            #transformer= models.Transformer("all-MiniLM-L6-v2", max_seq_length=256)
             self.transformer_encoder = SentenceTransformer("all-MiniLM-L6-v2")
-        #elif args.text_encoder == 'flava_Transformer':
-            #self.text_transform = BertTextTransform()
-        #    print("###")
+
             
  
 
@@ -160,11 +154,9 @@ class Slake(Dataset):
         Returns:
             TF-IDF feature matrix
         """
-        #self.corpus = descriptions
         self.tfidf_matrix = self.tfidf_vectorizer.transform(descriptions)
         self.terms= self.tfidf_vectorizer.inverse_transform(self.tfidf_matrix)
-        #print("----------------") 
-        #print(self.tfidf_matrix.shape) (8, 473)
+
         return self.tfidf_matrix
     
     def __getitem__(self, i):
@@ -181,13 +173,7 @@ class Slake(Dataset):
             text_normalized= normalize_size_pad_truncate(self.fastencoder.get_sentence_embedding( ' '.join(text_data)),self.text_size)
         elif self.args.text_encoder == 'Transformer':
             text_normalized= normalize_size_pad_truncate(self.transformer_encoder.encode(' '.join(text_data)) ,self.text_size)
-        elif self.args.text_encoder == 'flava_Transformer':
-            #Textextractor= TextFeatureExtractor()
-            for sentence in text_data:
-                encoded_result = flava_text_only_approach(sentence)
-                encoded_list.append(normalize_size_pad_truncate(encoded_result['text_features'],640))
-            text_data = np.array(encoded_list)
-            text_normalized = np.resize(text_data, (15,self.text_size))
+
             
 
         try:

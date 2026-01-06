@@ -1,0 +1,4 @@
+best epoch 5, best val acc=0.7469 + 0.0711
+Shot 1 Test acc=0.7238 + 0.0242
+Shot 5 Test acc=0.8331 + 0.0145
+Shot 8 Test acc=0.8381 + 0.0161

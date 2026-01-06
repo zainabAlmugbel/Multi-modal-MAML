@@ -138,9 +138,9 @@ def postprocess_args(args):
 
 def get_command_line_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--max_epoch', type=int, default=4) #40
-    parser.add_argument('--episodes_per_epoch', type=int, default=2) #200
-    parser.add_argument('--num_eval_episodes', type=int, default=2) #400
+    parser.add_argument('--max_epoch', type=int, default=40) #40
+    parser.add_argument('--episodes_per_epoch', type=int, default=200) #200
+    parser.add_argument('--num_eval_episodes', type=int, default=400) #400
     parser.add_argument('--way', type=int, default=4)
     parser.add_argument('--eval_way', type=int, default=4)
     parser.add_argument('--shot', type=int, default=1)#1
@@ -150,41 +150,43 @@ def get_command_line_parser():
     parser.add_argument('--backbone_class', type=str, default='Res12',
                         choices=['Res12'])
     parser.add_argument('--dataset', type=str, default='Slake', 
-                        choices=['MiniImageNet', 'TieredImageNet', 'CUB', 'Slake', 'Flower'])
+                        choices=[ 'CUB', 'Slake', 'Flower'])
     parser.add_argument('--model_class', type=str, default='MAML', 
                         choices=['MAML', 'MAMLUnicorn']) 
     parser.add_argument('--text_encoder', type=str, default='Transformer', 
                         choices=['TF_IDF', 'FastText','Transformer']) 
     # optimization parameters
-    parser.add_argument('--lr', type=float, default=1e-3) #0.004532305926969549 1e-6
+    parser.add_argument('--lr', type=float, default=1e-6) #0.004532305926969549 1e-6
     parser.add_argument('--lr_mul', type=float, default=10)    
     parser.add_argument('--lr_scheduler', type=str, default='cosine', choices=['multistep', 'step', 'cosine'])
     parser.add_argument('--step_size', type=str, default='100')
     parser.add_argument('--gamma', type=float, default=0.5)    
     parser.add_argument('--fix_BN', action='store_true', default=False)    
     parser.add_argument('--gpu', default='0')
-    parser.add_argument('--size', type=int, default=640,
-                        choices=[640,320,1280])
+    parser.add_argument('--exp_name', type=str, default='Exp9', 
+                        choices=['Exp1', 'Exp2', 'Exp3','Exp4','Exp5','Exp6','Exp7','Exp8','Exp9'])
+    parser.add_argument('--voc_size', type=int, default=350,
+                        choices=[200,350], help='The text size') # text size
+    parser.add_argument('--save_dir', type=str, default='./checkpoints/slakeExp1')
     # frequent parameters
     parser.add_argument('--temperature', type=float, default=0.5)    
     parser.add_argument('--para_init', type=str, default=None)#'./saves/initialization/miniimagenet/Res12-pre.pth')
-    parser.add_argument('--gd_lr', default= 0.004532305926969549, type=float, #0.01
+    parser.add_argument('--gd_lr', default= 0.001, type=float, #0.01
                         help='The inner learning rate for MAML-Based model')     #step size in Will used the default of metatorch #0.004532305926969549 
     parser.add_argument('--inner_iters', default=5, type=int, 
                         help='The inner iterations for MAML-Based model')        
     parser.add_argument('--noise_type', type=str, default='PCA', 
                         choices=['orth', 'gaussian', 'limitedOrth', 'PCA'])
     parser.add_argument('--noise_ratio', type=float, default=0.1)
-    parser.add_argument('--exp_name', type=str, default='Exp1', 
-                        choices=['Exp1', 'Exp2', 'Exp3','Exp4','Exp5','Exp6','Exp7','Exp8','Exp9'])
+
     
     
     # usually untouched parameters
     parser.add_argument('--mom', type=float, default=0.9)
-    parser.add_argument('--weight_decay', type=float, default= 0.001)#0.0005 # will 1e-3
+    parser.add_argument('--weight_decay', type=float, default= 0.0005)#0.0005 # will 1e-3
     parser.add_argument('--num_workers', default=4, type=int)
     parser.add_argument('--log_interval', type=int, default=50)
     parser.add_argument('--eval_interval', type=int, default=5)
-    parser.add_argument('--save_dir', type=str, default='./checkpoints/kg_img_Full_Flower3')
+
     
     return parser

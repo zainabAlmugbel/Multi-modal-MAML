@@ -1,0 +1,6 @@
+name: uni_env
+dependencies:
+- Python 3.*
+- torchvision
+- tensorboardX
+- pip
