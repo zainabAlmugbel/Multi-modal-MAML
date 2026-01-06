@@ -44,32 +44,29 @@ We have 9 Experiements that you can run by changing the configuration setting in
 
 The values the give the highest accuracy with the three datasets are with the following arguemnts:
 
-exp_name | dataset |  text_encoder | voc_size | lr | gd_lr | step_size | mom | weight_decay
+|exp_name | dataset |  text_encoder | voc_size | lr | gd_lr | step_size | mom | weight_decay|
+|---------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|-------:|
+|Exp1 | SLAKE | Transformer | 200 | 1e-3 | 0.004532305926969549 | 100 | 0.9 | 1e-3|
+|Exp1 | CUB/FLOWER | FastText | 200 | 1e-3 | 0.004532305926969549 | 100 | 0.9 | 1e-3|
+|Exp7 | SLAKE  | Transformer | 350 |  0.001 | 0.004532305926969549 | 80 | 0.9 | 0.001|
+|Exp7 | CUB  | FastText | 350 |  0.001 | 0.004532305926969549 | 80 | 0.9 | 0.001|
+|Exp7 | FLOWER  | Transformer | 350 |  0.001 | 0.004532305926969549 | 80 | 0.9 | 0.001|
 
-Exp1 | SLAKE | Transformer | 200 | 1e-3 | 0.004532305926969549 | 100 | 0.9 | 1e-3
-Exp1 | CUB/FLOWER | FastText | 200 | 1e-3 | 0.004532305926969549 | 100 | 0.9 | 1e-3
+Exp2, 3, 4, 5 have same Exp 1 settings except voc_size is set to 350.
 
-Exp2, 3, 4, 5 same previous settings except voc_size is set to 350
+Exp6, 8, 9 have the same text_encoder (Transformer), voc_size (350), step_size (100), mom (0.9) weight_decay (0.005).
 
-Exp7 | SLAKE  | Transformer | 350 |  0.001 | 0.004532305926969549 | 80 | 0.9 | 0.001
-Exp7 | CUB  | FastText | 350 |  0.001 | 0.004532305926969549 | 80 | 0.9 | 0.001
-Exp7 | FLOWER  | Transformer | 350 |  0.001 | 0.004532305926969549 | 80 | 0.9 | 0.001
-
-Exp6, 8, 9 have the same text_encoder (Transformer), voc_size (350), step_size (100), mom (0.9) weight_decay (0.005)
-
-exp_name | dataset  | lr | gd_lr
-
-Exp 6 | SLAKE | 1e-06 | 0.005 
-Exp 6 | CUB | 1e-05 | 0.003
-Exp 6 | FLOWER | 1e-06 | 0.004532305926969549  
-
-Exp 8 | SLAKE | 1e-06 | 0.01 
-Exp 8 | CUB | 1e-06 | 0.01
-Exp 8 | FLOWER | 1e-06 | 0.01  
-
-Exp 9 | SLAKE | 1e-06 | 0.001 
-Exp 9 | CUB | 1e-05 | 0.003
-Exp 9 | FLOWER | 1e-05 | 0.003  
+|exp_name | dataset  | lr | gd_lr|
+|---------|:-------:|:-------:|-------:|
+|Exp 6 | SLAKE | 1e-06 | 0.005 |
+|Exp 6 | CUB | 1e-05 | 0.003|
+|Exp 6 | FLOWER | 1e-06 | 0.004532305926969549|
+|Exp 8 | SLAKE | 1e-06 | 0.01| 
+|Exp 8 | CUB | 1e-06 | 0.01|
+|Exp 8 | FLOWER | 1e-06 | 0.01|  
+|Exp 9 | SLAKE | 1e-06 | 0.001 |
+|Exp 9 | CUB | 1e-05 | 0.003|
+|Exp 9 | FLOWER | 1e-05 | 0.003| 
 
 
 ################################ Running the code ##################################
