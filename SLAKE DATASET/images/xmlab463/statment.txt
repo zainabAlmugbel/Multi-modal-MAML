@@ -1,0 +1,4 @@
+Brain Tumour#location#Upper Left Lobe
+Brain Tumour#cause#brain embryonic tissue dysplasia, genetic factors, chemical factors
+scanning plane#method#Transverse Plane
+head#part of#body

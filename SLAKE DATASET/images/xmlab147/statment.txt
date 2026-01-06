@@ -1,0 +1,6 @@
+Atelectasis, Mass#subclass of#disease
+Lung#condition#abnormal
+modality#type#X-Ray
+lung#size#largest organ
+Chest#part of#body
+Right Lung#condition#abnormal

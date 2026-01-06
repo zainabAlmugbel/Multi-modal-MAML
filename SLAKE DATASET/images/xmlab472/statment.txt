@@ -1,0 +1,6 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+Brain Tumour#prevention#pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma
+mr weighting#value#T2
+right hemisphere#condition#abnormal
+head#part of#body

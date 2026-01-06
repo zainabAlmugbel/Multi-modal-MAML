@@ -1,0 +1,3 @@
+Spleen#color#gray
+Spleen#location#lower right organ in this image
+Liver Cancer#subclass of#disease

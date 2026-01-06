@@ -1,0 +1,6 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+right brain lobe#condition#healthy
+Head#subclass of#organ system
+mr weighting#value#T2
+head#part of#body

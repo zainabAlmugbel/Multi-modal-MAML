@@ -1,0 +1,5 @@
+Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor#subclass of#disease
+Head#subclass of#organ system
+Brain Tumour#prevention#pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma
+mr weighting#value#T2
+Brain Edema#location#Left Lobe

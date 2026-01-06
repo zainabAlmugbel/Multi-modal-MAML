@@ -1,0 +1,5 @@
+modality#type#CT
+Liver#size#largest organ
+Spleen, Liver #subclass of#organ
+Liver#condition#healthy
+Liver#location#on the left side of image

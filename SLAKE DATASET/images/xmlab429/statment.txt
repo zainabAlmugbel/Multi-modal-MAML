@@ -1,0 +1,5 @@
+Trachea#function#gas delivery
+Esophagus#belong to #digestive system
+scanning plane#method#Transverse Plane
+Neck#subclass of#organ system
+trachea#shape#Irregular

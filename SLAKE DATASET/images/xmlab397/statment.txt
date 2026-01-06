@@ -1,0 +1,8 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Brainstem#function#Control heartbeat and breathing
+Head#subclass of#organ system
+Eyes#color#Black
+Eyes#belong to#sensory organs
+Temporal Lobe#subclass of#organ
+Eyes#shape#Circular

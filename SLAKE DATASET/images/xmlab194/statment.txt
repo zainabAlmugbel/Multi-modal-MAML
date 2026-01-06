@@ -1,0 +1,7 @@
+Pneumothorax#location#Left Lung, Upper Right
+Lung#condition#abnormal
+modality#type#X-Ray
+Pneumothorax#subclass of#disease
+Lung#subclass of#organ
+Chest#part of#body
+Lung#size#largest organ

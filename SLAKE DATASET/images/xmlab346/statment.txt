@@ -1,0 +1,11 @@
+chest#subclass of#organ system
+modality#type#X-Ray
+Pulmonary Mass#prevent#Keep healthy
+Heart#subclass of#circulatory system
+scanning plane#method#Coronal Plane
+right temporal lobe#condition#healthy
+Left Lung#color#black
+Pulmonary Mass#subclass of#disease
+Pulmonary Mass#location#Upper Left Lung
+lung#quantity#2
+Lung#function#Breathe

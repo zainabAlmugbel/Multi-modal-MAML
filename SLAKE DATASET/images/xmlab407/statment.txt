@@ -1,0 +1,7 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Head#subclass of#organ system
+Brain#size#largest organ
+Brain#belong to #the nervous system
+Tooth#effect#cutting, chewing, maintaining facial contour and assisting pronunciation
+Mandible#quantity#2

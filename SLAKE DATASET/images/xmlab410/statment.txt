@@ -1,0 +1,8 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Trachea#function#gas delivery
+larynx#color#Black
+larynx#shape#Oval
+Larynx#belong to #respiratory system
+Larynx#function#Ventilation, pronunciation
+Neck#subclass of#organ system

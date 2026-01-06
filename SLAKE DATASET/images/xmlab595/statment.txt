@@ -1,0 +1,3 @@
+Heart#color#White
+modality#type#CT
+Lung#quantity#2

@@ -1,0 +1,9 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Mandible, Parotid#subclass of#organ
+parotids#quantity#2
+tooth#color#White
+Brain#size#largest organ
+Brain#belong to #the nervous system
+Tooth#effect#cutting, chewing, maintaining facial contour and assisting pronunciation
+tooth#shape#U-shaped

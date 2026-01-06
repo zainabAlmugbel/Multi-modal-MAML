@@ -1,0 +1,7 @@
+modality#type#CT
+Larynx#location#top of the image
+Larynx#shape#Irregular
+scanning plane#method#Transverse Plane
+Larynx#belong to # respiratory system
+Larynx#function#Ventilation, pronunciation
+spinal cord#color#Gray

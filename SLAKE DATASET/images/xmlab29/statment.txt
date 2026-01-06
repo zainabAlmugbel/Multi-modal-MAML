@@ -1,0 +1,7 @@
+modality#type#MRI
+Spleen#location#Right of image
+mr weighting#value#T1
+Abdomen#part of#body
+Liver#location#Left of image
+Liver, Spleen#subclass of#organ
+Liver, Spleen#condition#healthy

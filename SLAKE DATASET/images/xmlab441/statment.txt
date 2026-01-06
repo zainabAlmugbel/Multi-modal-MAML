@@ -1,0 +1,4 @@
+modality#type#MRI
+brain tumor#symptoms#Visual impairment, vomiting, tinnitus, increased intracranial pressure
+mr weighting#value#T2
+Head#subclass of#organ system

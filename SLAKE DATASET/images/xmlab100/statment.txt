@@ -1,0 +1,5 @@
+Heart#subclass of#organ
+modality#type#CT
+Liver, Heart, Spleen, Lung#subclass of#organ
+Liver#size#largest organ
+Lung#condition#healthy

@@ -1,0 +1,4 @@
+Pelvic Cavity#part of#body
+Small Bowel, Colon#subclass of#digestive system
+modality#type#CT
+colon#subclass of#organ

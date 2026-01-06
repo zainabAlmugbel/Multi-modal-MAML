@@ -1,0 +1,4 @@
+modality#type#MRI
+kidney#condition#healthy
+mr weighting#value#T2
+Spleen, Liver, kidney#subclass of#organ

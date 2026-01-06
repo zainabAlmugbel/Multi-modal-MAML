@@ -1,0 +1,5 @@
+scanning plane#method#Transverse Plane
+modality#type#CT
+Lung#subclass of#organ
+Pulmonary bronchus#description#white veins
+Lung#size#largest organ

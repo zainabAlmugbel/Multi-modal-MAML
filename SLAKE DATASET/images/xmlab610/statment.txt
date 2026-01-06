@@ -1,0 +1,6 @@
+Rectum#location#bottom of image
+Bladder#belong to# the urinary system
+Bladder#function#Store urine
+Bladder#location#top of the body in this image
+small bowel#smaller#Bladder
+Rectum#function#store feces, excrete feces

@@ -1,0 +1,6 @@
+modality#type#MRI
+Head#subclass of#organ system
+Brain Edema#subclass of#disease
+mr weighting#value#T2
+Brain Edema#location#upper left of brain
+Brain Edema#treatment#Pharmacotherapy, rehabilitation

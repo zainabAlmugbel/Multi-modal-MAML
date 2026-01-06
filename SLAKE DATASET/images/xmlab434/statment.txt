@@ -1,0 +1,4 @@
+Trachea#function#gas delivery
+trachea#color#Black
+Esophagus#belong to #digestive system
+trachea#shape#Circular

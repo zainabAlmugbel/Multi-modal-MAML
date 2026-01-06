@@ -1,0 +1,4 @@
+Spleen#location#rightmost in image
+Liver#size#largest organ
+Liver, Spleen#subclass of#organ
+Liver#location#on the left side of image

@@ -1,0 +1,12 @@
+Pulmonary Nodule#subclass of#disease
+chest#part of#body
+chest#subclass of#organ system
+modality#type#X-Ray
+Pulmonary Nodule#location#Upper Left Lung
+Heart#subclass of#circulatory system
+scanning plane#method#Coronal Plane
+Pulmonary Nodule#cause#Pulmonary infection, chronic irritation
+Lung#color#black
+lung#quantity#2
+Upper Left Lung#condition#abnormal
+Lung#function#Breathe

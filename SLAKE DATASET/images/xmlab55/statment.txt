@@ -1,0 +1,5 @@
+modality#type#MRI
+Brain#subclass of#organ
+Brain#condition#healthy
+Brain#size#largest organ
+mr weighting#value#T2

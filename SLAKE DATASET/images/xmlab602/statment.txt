@@ -1,0 +1,3 @@
+Rectum#function#store feces, excrete feces
+Pelvic Cavity#subclass of#organ system
+Rectum#color#Gray

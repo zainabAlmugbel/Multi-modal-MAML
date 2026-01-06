@@ -1,0 +1,13 @@
+Lung#function#Breathe
+Heart#location#center
+atelectasis#location#Lower Left Lung
+chest#subclass of#organ system
+atelectasis#cause#Chest tightness, shortness of breath, difficulty breathing, dry cough
+modality#type#X-Ray
+Atelectasis#subclass of#disease
+Heart#subclass of#circulatory system
+scanning plane#method#Coronal Plane
+right lung#color#grey
+Chest#part of#body
+lung#quantity#2
+lung#condition#abnormal

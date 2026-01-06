@@ -1,0 +1,6 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Esophagus#belong to #digestive system
+spinal cord#shape#Circular
+Trachea#function#gas delivery
+Neck#subclass of#organ system

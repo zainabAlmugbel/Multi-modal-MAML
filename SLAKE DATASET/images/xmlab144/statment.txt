@@ -1,0 +1,6 @@
+Lung#condition#abnormal
+Nodule#location#Left Lung, Lower Right
+modality#type#X-Ray
+Nodule#subclass of#disease
+Chest#part of#body
+Lung#size#largest organ

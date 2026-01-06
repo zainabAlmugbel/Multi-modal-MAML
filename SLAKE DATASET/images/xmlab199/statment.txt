@@ -1,0 +1,7 @@
+Lung#condition#abnormal
+Effusion#subclass of#disease
+modality#type#X-Ray
+Effusion#location#Left Lung
+Lung#subclass of#organ
+Chest#part of#body
+Lung#size#largest organ

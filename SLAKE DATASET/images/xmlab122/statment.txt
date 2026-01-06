@@ -1,0 +1,3 @@
+Noudle#subclass of#disease
+modality#type#X-Ray
+Lung#size#largest organ

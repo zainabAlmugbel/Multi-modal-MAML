@@ -1,0 +1,6 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+Head#subclass of#organ system
+Brain Edema#subclass of#disease
+mr weighting#value#T2
+Brain embryonic tissue dysplasia, genetic factors, chemical factors#cause#Brain Edema

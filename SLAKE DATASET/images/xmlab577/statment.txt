@@ -1,0 +1,10 @@
+Spleen#color#Gray
+colon#color#Dark Gray
+Spleen#location#Right
+Left Lung#size#smallest organ
+lung#location#left
+Lung#subclass of#respiratory system
+Lung#color#black
+liver#location#Upper Left
+stomach, spinal cord#subclass of#organ
+Lung#function#Breathe

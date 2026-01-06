@@ -1,0 +1,9 @@
+Bladder#color#dark gray
+femoral heads#quantity#1
+scanning plane#method#Transverse Plane
+Small Bowel, Rectum#belong to# the digestive system
+Bladder#location#top of the body in this image
+Bladder#bigger#small bowel
+Rectum#function#store feces, excrete feces
+Bladder#function#sStore urine
+Bladder#location#center of image

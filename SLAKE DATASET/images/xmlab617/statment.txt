@@ -1,0 +1,3 @@
+Left Femoral Head#location#on the right of the image
+femoral heads#quantity#2
+Left Femoral Head#color#white

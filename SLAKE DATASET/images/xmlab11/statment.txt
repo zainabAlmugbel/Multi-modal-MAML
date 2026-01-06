@@ -1,0 +1,3 @@
+modality#type#MRI
+Liver, Spleen#subclass of#organ
+mr weighting#value#T2

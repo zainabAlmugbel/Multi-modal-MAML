@@ -1,0 +1,9 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Brain#size#largest organ
+spinal cord#color#Grey
+Mandible#marks#the lower end of the organ system
+Tooth#effect#cutting, chewing, maintaining facial contour and assisting pronunciation
+Tooth#belong to #digestive system
+temporal lobes#quantity#0
+tooth#shape#U-shaped

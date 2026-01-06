@@ -1,0 +1,6 @@
+Lung, Liver #subclass of#organ
+scanning plane#method#Transverse Plane
+modality#type#CT
+Liver Cancer#subclass of#disease
+Lung#size#largest organ
+Liver#location#on the top of the body in image

@@ -1,0 +1,6 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+spinal cord#shape#Irregular
+Larynx#function#Ventilation, pronunciation
+Neck#subclass of#organ system
+spinal cord#belong to#nervous system

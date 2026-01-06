@@ -1,0 +1,3 @@
+modality#type#CT
+Lung Cancer#subclass of#disease
+Lung, Heart#subclass of#organ

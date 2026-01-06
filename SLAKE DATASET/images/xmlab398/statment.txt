@@ -1,0 +1,6 @@
+modality#type#CT
+Temporal Lobe#color#Grey
+temporal lobes#quantity#2
+Brain#size#largest organ
+Brain#belong to #the nervous system
+the tissue on the left of image#effect#Participate in hearing, speech and memory

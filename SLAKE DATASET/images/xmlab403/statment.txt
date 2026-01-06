@@ -1,0 +1,8 @@
+modality#type#CT
+Brainstem#function#Control heartbeat and breathing
+Head#subclass of#organ system
+ears#quantity#2
+Brain#size#largest organ
+Brain#belong to #the nervous system
+ear#color#White
+Mandible#description#organ marks the lower end of the organ system

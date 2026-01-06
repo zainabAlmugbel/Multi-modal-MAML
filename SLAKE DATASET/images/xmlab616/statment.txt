@@ -1,0 +1,4 @@
+Bladder#belong to# the urinary system
+Rectum#smaller#small bowel
+Bladder#function#Store urine
+Rectum#smaller#bladder

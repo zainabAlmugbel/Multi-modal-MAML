@@ -1,0 +1,4 @@
+Lung#condition#healthy
+modality#type#CT
+Liver#size#largest organ
+Lung, Liver#subclass of#organ

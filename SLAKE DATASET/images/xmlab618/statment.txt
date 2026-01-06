@@ -1,0 +1,6 @@
+Small Intestine#function#Absorb nutrients, secrete enzymes, digest food
+bladder#color#Dark Gray
+Small Intestine#location#top of image
+Bladder#bigger#rectum
+Rectum, Small Bowel#belong to#digestive system
+femoral head#shape#Circular

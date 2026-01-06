@@ -1,0 +1,7 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+brain edema#location#Left Lobe
+brain edema#color#Light grey
+Head#subclass of#organ system
+mr weighting#value#T2
+Brain Edema#treatment#pharmacotherapy, rehabilitation

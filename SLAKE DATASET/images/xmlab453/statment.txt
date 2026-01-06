@@ -1,0 +1,6 @@
+scanning plane#method#Transverse Plane
+Head#subclass of#organ system
+Brain Edema#location#Upper Left Lobe
+Brain Edema#subclass of#disease
+mr weighting#value#T2
+Brain Edema#treatment#pharmacotherapy, rehabilitation

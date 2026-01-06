@@ -1,0 +1,10 @@
+kidney#quantity#1
+modality#type#CT
+Left Kidney#location#rightmost of image
+scanning plane#method#Transverse Plane
+Liver, kidney#subclass of#organ
+Abdomen#part of#body
+Liver#size#largest organ
+Liver#location#Left of image
+Liver Cancer, Kidney Cancer#subclass of#disease
+Liver,Kidney#condition#abnormal

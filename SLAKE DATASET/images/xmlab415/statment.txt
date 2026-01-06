@@ -1,0 +1,8 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+parotids#belong to #digestive system
+Mandible#color#White
+Head#subclass of#organ system
+Brain#size#largest organ
+Mandible#location#top of the image
+Mandible#shape#U-shaped

@@ -1,0 +1,5 @@
+Bladder#belong to#urinary system
+Bladder#color#Gray
+Bladder#location#center of image
+Bladder#function#store urine
+femoral heads#quantity#0

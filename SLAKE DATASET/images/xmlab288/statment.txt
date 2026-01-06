@@ -1,0 +1,12 @@
+Spleen#color#grey
+modality#type#CT
+Spleen#location#Right of image
+scanning plane#method#Transverse Plane
+Abdomen#part of#body
+Right Lung#location#Left of image
+Right Lung#color#black
+Liver#size#largest organ
+Liver#location#Upper Left of image
+Liver, Stomach#location#top of the body in image
+Liver#condition#healthy
+Liver, Spleen, Lung#subclass of#organ

@@ -1,0 +1,6 @@
+Bladder#size#largest organ
+modality#type#CT
+Bladder#belong to#urinary system
+Rectum#function#store feces, excrete feces
+Bladder#color# gray
+femoral head#shape#Circular

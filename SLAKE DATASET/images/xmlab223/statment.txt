@@ -1,0 +1,8 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Abdomen#part of#body
+Liver#size#largest organ
+spleen,Liver, Lung#subclass of#organ
+kidney##quantity#0
+Liver#condition#healthy
+liver#location#Upper Left

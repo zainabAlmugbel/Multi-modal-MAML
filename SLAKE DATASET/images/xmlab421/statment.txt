@@ -1,0 +1,6 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Larynx#shape#Irregular
+larynx#color#Black
+Larynx#belong to #digestive system
+Neck#subclass of#organ system

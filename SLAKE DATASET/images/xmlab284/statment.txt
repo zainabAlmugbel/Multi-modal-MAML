@@ -1,0 +1,14 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Liver#condition#abnormal
+Abdomen#part of#body
+Right Lung#location#Left of image
+Right Lung#color#black
+Spleen#location#rightmost of image
+Liver#location#top of the body in image
+Liver#size#largest organ
+Liver#location#Left of image
+Liver, Lung, spleen#subclass of#organ
+Liver#color#grey
+kidney#quantity#0
+Liver Cancer#subclass of#disease

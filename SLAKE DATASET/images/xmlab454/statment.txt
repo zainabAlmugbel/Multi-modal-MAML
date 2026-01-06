@@ -1,0 +1,6 @@
+modality#type#MRI
+Head#subclass of#organ system
+Brain Edema#subclass of#disease
+mr weighting#value#T2
+Brain Edema#symptoms#Encephalomalacia, local edema, confusion, increased intracranial pressure
+Brain Edema#location#Left Lobe

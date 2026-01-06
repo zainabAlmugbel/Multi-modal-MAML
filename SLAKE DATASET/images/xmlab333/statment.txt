@@ -1,0 +1,10 @@
+Mass#location#Right Lung
+chest#part of#body
+chest#subclass of#organ system
+modality#type#X-Ray
+Heart#subclass of#circulatory system
+right temporal lobe, left temporal lobe#condition#abnormal
+scanning plane#method#Coronal Plane
+Lung#subclass of#organ
+Lung#color#black
+Lung#quantity#2

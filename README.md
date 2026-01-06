@@ -1,5 +1,8 @@
 # Multi-modal-MAML-Revisiting-Features-Fusion-for-Generalization-and-Class-Distribution
-This is the code of the paper Multi-modal MAML: Revisiting Features Fusion for Generalization and Class Distribution
+This is the code of Paper Title: Multi-modal MAML: Revisiting Features Fusion for Discriminative Generalization and Class Distribution
+
+Abstract:
+Class distribution methods determine how classes are allocated across meta-train, meta-val, and meta-test sets, impacting meta-learning algorithms such as Prototypical Networks and MAML when trained from scratch on small datasets. We hypothesize that learning more class-discriminative features can mitigate the effect of class distribution. To address this, we propose Multi-modal MAML, which integrates visual and textual modalities via linear and attention-based fusion to produce more discriminative features. While prior work highlights challenges in training MAML with multimodal data, we systematically investigate factors affecting performance on small datasets—SLAKE, CUB, and Flower—including tensor size, textual feature extraction, and fusion techniques. Our linear fusion experiments achieve super-convergence, and we explore inner and outer learning rates, step size, and weight decay to optimize attention-based experiments. Our model achieves superior or comparable performance to nine baselines, with three key findings: (1) MAML’s computational cost does not hinder learning discriminative features; (2) multimodality does not mitigate class distribution effects; and (3) multimodality does not always improve performance across class distribution methods.
 
 ################ acknowledgment #############################
 
@@ -16,19 +19,22 @@ If you use any content of this repo for your work, please cite the following bib
 	}
 
 In the models folder, the implementation of all the attention based classes, namely attention, SelfAttentionForTwoTexts, sentence_transformer_attention are generated using the AI assistant claude.ai
-##################################################################
 
-1- You can find the data splits on the datasplits folder.
-if you would like to obtain our results use the splits folder (350 data samples ). the full_split folder includes larger data samples. The datasets can be downloaded from the followings:
-SLAKE
-FLOWER https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
-CUB http://www.vision.caltech.edu/visipedia
 
-2- please fix the data paths on the data files included in the dataloader folder. 
+################################ Datasets ##################################
+You can find the data splits on the datasplits folder.
+if you would like to obtain our results use the splits folder (with 350 data samples ). the full_split folder includes larger data samples. The datasets can be downloaded from the followings:
+SLAKE: SLAKE DATASET folder contains our few-shot image classification modified version taken originally from https://www.med-vqa.com/slake/
+FLOWER: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+CUB: http://www.vision.caltech.edu/visipedia
 
+Please fix the data paths on the .py files included in the dataloader folder. 
+
+################################ Requirements ##################################
 3- requirements.yml includes the requirements/dependencies to run the code.
 
-4- After downloading the dataset, you can set the configuration, 
+################################ Arguments ##################################
+
 We have 9 Experiements that you can run by changing the configuration setting in Utils.py file.
 --exp_name determines the experiment [check the paper for more details]
 --text_encoder detemines textual feature extraction techniques
@@ -67,4 +73,6 @@ Exp 9 -- CUB -- 1e-05 -- 0.003
 Exp 9 -- FLOWER -- 1e-05 -- 0.003  
 -------------------------------
 
-5-use main.job to run the code or type python train_fsl.py
+################################ Running the code ##################################
+
+You can modify main.job to run the code or type python train_fsl.py

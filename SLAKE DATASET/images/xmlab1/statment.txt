@@ -1,0 +1,3 @@
+Liver#subclass of#organ
+modality#type#MRI
+mr weighting#value#T2

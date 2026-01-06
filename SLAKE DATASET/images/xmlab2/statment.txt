@@ -1,0 +1,4 @@
+modality#type#MRI
+Liver#size#largest organ
+mr weighting#value#T2
+Spleen, Liver, kidney#subclass of#organ

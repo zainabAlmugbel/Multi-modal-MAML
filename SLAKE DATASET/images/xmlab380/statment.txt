@@ -1,0 +1,2 @@
+Atelectasis#location#on the right of lung
+Atelectasis#subclass of#disease

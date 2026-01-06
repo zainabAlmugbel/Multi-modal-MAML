@@ -1,0 +1,12 @@
+Heart#location#center
+left lung#color#black
+modality#type#X-Ray
+Cardiomegaly#cause#Hypertension, dilated cardiomyopathy
+Heart#condition#abnormal
+Heart#subclass of#circulatory system
+scanning plane#method#Coronal Plane
+cardiomegaly#location#Heart
+Cardiomegaly#subclass of#disease
+Chest#part of#body
+Heart#function#promote blood flow
+lung#quantity#2

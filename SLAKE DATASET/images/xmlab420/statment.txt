@@ -1,0 +1,5 @@
+modality#type#CT
+larynx#color#Black
+spinal cord#shape#Irregular
+Neck#subclass of#organ system
+spinal cord#belong to#nervous system

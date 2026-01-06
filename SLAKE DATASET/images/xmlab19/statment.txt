@@ -1,0 +1,4 @@
+Liver#location#on the left of the right kidney
+modality#type#MRI
+Liver, kidney#subclass of#organ
+mr weighting#value#T2

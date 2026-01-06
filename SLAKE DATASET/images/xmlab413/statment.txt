@@ -1,0 +1,8 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+parotids#quantity#2
+Head#subclass of#organ system
+tooth#color#White
+Mandible#marks#the lower end of the organ system
+Brain#belong to #the nervous system
+tooth#shape#U-shaped

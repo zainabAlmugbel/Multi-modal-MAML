@@ -1,0 +1,2 @@
+Right Lung#subclass of#organ
+Right Lung#location#on the left of the image

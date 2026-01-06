@@ -1,0 +1,2 @@
+modality#type#MRI
+mr weighting#value#T2

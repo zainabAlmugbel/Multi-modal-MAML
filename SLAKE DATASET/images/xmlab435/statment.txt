@@ -1,0 +1,5 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+Head#subclass of#organ system
+Brain Edema#subclass of#disease
+mr weighting#value#T2

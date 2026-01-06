@@ -1,0 +1,9 @@
+Left Temporal Lobe#location#on the right of the image
+modality#type#CT
+scanning plane#method#Transverse Plane
+Brainstem#function#Control heartbeat and breathing
+Head#subclass of#organ system
+left temporal lobe#color#Grey
+Brain#size#largest organ
+Ears#subclass of#organ
+Eyes#quantity#0

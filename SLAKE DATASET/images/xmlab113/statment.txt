@@ -1,0 +1,4 @@
+modality#type#CT
+Lung#subclass of#organ
+Lung Cancer#subclass of#disease
+Lung#size#largest organ

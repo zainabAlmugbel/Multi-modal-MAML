@@ -1,0 +1,7 @@
+Heart#subclass of#organ
+scanning plane#method#Transverse Plane
+Chest#subclass of# organ system
+Heart#color#White
+Lung#belong to#the respiratory system
+Heart#function#promote blood flow
+Lung#quantity#2

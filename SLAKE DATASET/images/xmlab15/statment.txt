@@ -1,0 +1,4 @@
+Spleen#condition#healthy
+modality#type#MRI
+mr weighting#value#T2
+Spleen, Liver#subclass of#organ

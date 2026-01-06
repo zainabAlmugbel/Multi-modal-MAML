@@ -1,0 +1,7 @@
+Lung#condition#abnormal
+modality#type#X-Ray
+Heart#condition#abnormal
+Chest#part of#body
+Heart,Lung#subclass of#organ
+Cardiomegaly, Infiltration, Effusion#subclass of#disease
+Lung#size#largest organ

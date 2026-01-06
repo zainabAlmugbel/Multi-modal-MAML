@@ -1,0 +1,4 @@
+scanning plane#method#Transverse Plane
+Rectum#function#store feces, excrete feces
+Rectum#smaller#bladder
+Rectum#color#Gray

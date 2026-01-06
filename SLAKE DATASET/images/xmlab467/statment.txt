@@ -1,0 +1,8 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+Left lobe#condition#abnormal
+Head#subclass of#organ system
+mr weighting#value#T2
+Brain Edema#subclass of#disease
+Brain Edema#symptoms#Encephalomalacia, local edema, confusion, increased intracranial pressure
+Brain Edema#location#Left Lobe

@@ -1,0 +1,2 @@
+Left Lung#location#the rightmost in image
+Liver Cancer#subclass of#disease

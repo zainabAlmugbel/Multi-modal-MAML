@@ -1,0 +1,6 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+parotids#quantity#2
+Mandible#color#White
+Brain#subclass of#organ
+Mandible#marks#the lower end of the organ system

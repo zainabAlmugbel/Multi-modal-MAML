@@ -1,0 +1,3 @@
+Spleen#bigger#kidney
+Liver Cancer#subclass of#disease
+Spleen#location#the rightmost in image

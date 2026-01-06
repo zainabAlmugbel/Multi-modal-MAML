@@ -1,0 +1,12 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Liver, Heart, Lung#subclass of#organ
+Abdomen#part of#body
+Right Lung#location#Left of image
+Right Lung#color#black
+Left Lung#location#Rightmost of image
+Liver#location#Left of image
+Heart#location#top of the body in image
+Liver#condition#healthy
+Liver#color#grey
+Lung#size#largest organ

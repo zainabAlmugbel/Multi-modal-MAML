@@ -1,0 +1,7 @@
+Lung#condition#abnormal
+Mass#location#Right Lung, Left
+modality#type#X-Ray
+Mass#subclass of#disease
+Lung#subclass of#organ
+Chest#part of#body
+Lung#size#largest organ

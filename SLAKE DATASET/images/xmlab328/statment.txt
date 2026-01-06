@@ -1,0 +1,11 @@
+atelectasis#location#Lower Left Lung
+chest#part of#body
+chest#subclass of#organ system
+modality#type#X-Ray
+Heart#quantity#1
+Heart#subclass of#circulatory system
+scanning plane#method#Coronal Plane
+Lung#subclass of#organ
+atelectasis#symptoms#Chest tightness, shortness of breath, difficulty breathing, dry cough
+Left Lung, Lung#condition#abnormal
+Lung#color#black

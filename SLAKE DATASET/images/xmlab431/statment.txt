@@ -1,0 +1,5 @@
+Trachea#function#gas delivery
+Esophagus#belong to #digestive system
+modality#type#CT
+trachea#shape#Circular
+Neck#subclass of#organ system

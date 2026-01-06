@@ -1,0 +1,7 @@
+Heart#location#on the top of the body in image
+modality#type#CT
+scanning plane#method#Transverse Plane
+Lung, Heart#subclass of#organ
+Pulmonary bronchus#description#white veins in the black part of the body
+Lung#bigger#Heart
+Lung#size#largest organ

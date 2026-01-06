@@ -1,0 +1,11 @@
+left temporal lobe#condition#abnormal
+chest#part of#body
+chest#subclass of#organ system
+modality#type#X-Ray
+Right Lung#color#black
+Pulmonary Infiltration#location#Lower Left Lung
+Pulmonary Infiltration#symptom#Chest pain, cough, expectoration
+Heart#subclass of#circulatory system
+scanning plane#method#Coronal Plane
+lung#quantity#2
+Lung#function#Breathe

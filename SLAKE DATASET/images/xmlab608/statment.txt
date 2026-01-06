@@ -1,0 +1,5 @@
+Bladder#color#dark gray
+modality#type#CT
+Rectum#function# excrete feces
+Bladder#bigger#Small Bowel
+Bladder#bigger#Rectum

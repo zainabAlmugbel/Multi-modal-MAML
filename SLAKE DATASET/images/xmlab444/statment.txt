@@ -1,0 +1,4 @@
+modality#type#MRI
+brain tumor#treatment#Medical treatment, supportive treatment, surgical treatment
+mr weighting#value#T2
+Head#subclass of#organ system

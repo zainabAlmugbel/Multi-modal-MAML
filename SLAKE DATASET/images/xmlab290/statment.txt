@@ -1,0 +1,9 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Abdomen#part of#body
+kidney#quantity#2
+Liver, Spleen#subclass of#organ
+Liver#location#Left of image
+Large Bowel#location#top of the body in image
+Spleen#location#Rightmost of image
+Liver#color#grey

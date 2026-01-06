@@ -1,0 +1,2 @@
+Heart#location#on the top of the body in image
+Right Lung#location#on the left side of image

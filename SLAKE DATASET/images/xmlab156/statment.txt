@@ -1,0 +1,6 @@
+Atelectasis, Effusion#subclass of#disease
+Lung#condition#abnormal
+modality#type#X-Ray
+Atelectasis, Effusion#location#Both Lungs
+Chest#part of#body
+Lung#size#largest organ

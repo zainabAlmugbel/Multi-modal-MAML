@@ -1,0 +1,8 @@
+Heart, Lung, left lung#condition#abnormal
+chest#subclass of#organ system
+modality#type#X-Ray
+Cardiomegaly#symptom#chest tightness, arrhythmia
+cardiomegaly#location#Heart
+Lung#subclass of#respiratory system
+Lung#color#black
+Lung#quantity#2

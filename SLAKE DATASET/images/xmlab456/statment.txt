@@ -1,0 +1,6 @@
+modality#type#MRI
+Brain Tumour#cause#brain embryonic tissue dysplasia, genetic factors, chemical factors
+brain tumor#subclass of#disease
+Head#subclass of#organ system
+Brain Tumour#location#left lobe
+Brain Edema#color#Light grey

@@ -1,0 +1,7 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Larynx#shape#Irregular
+Larynx#color#Black
+Larynx#belong to #digestive system
+Larynx#function#Ventilation, pronunciation
+spinal cord#location#on the bottom of the image

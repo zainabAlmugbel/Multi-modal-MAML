@@ -1,0 +1,4 @@
+Lung#condition#healthy
+modality#type#CT
+Lung#size#largest organ
+Lung, Heart#subclass of#organ

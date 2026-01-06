@@ -1,0 +1,2 @@
+Liver#location#on the left side of image
+Spleen#location#in the lower right corner

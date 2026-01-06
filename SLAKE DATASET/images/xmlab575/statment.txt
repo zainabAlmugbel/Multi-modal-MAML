@@ -1,0 +1,11 @@
+colon#location#Upper Right
+modality#type#CT
+colon#color#Dark Gray
+Spleen#location#lower Right
+liver#shape#Irregular
+Spleen#bigger#Left Lung
+Left Lung#location#Right
+stomach#subclass of#organ
+Left Lung#color#black
+Lung#subclass of#respiratory system
+Spleen#function#improve the body's immunity

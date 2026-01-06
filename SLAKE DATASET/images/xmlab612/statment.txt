@@ -1,0 +1,10 @@
+right femoral head#color#White
+Small Bowel, Rectum#belong to# the digestive system
+Bladder#function#Store urine
+Bladder#location#top of the body in this image
+Rectum#smaller#bladder
+Bladder#bigger#Small Bowel
+Rectum#function#store feces, excrete feces
+Rectum#color#Gray
+Rectum#smaller#small bowel
+Pelvic Cavity#subclass of#organ system

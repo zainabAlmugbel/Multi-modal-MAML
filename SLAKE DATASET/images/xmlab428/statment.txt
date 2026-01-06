@@ -1,0 +1,7 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Trachea#function#gas delivery
+Trachea#belong to # respiratory system
+trachea#color#Black
+Neck#subclass of#organ system
+trachea#shape#Irregular

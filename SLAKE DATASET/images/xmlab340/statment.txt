@@ -1,0 +1,11 @@
+chest#part of#body
+chest#subclass of#organ system
+modality#type#X-Ray
+pneumothorax#location#right lobe of lung
+pneumothorax#prevent#Quit smoking, avoid strenuous exercise
+Heart#subclass of#circulatory system
+scanning plane#method#Coronal Plane
+Right Lung#condition#abnormal
+Lung#color#black
+lung#quantity#2
+Lung#function#Breathe

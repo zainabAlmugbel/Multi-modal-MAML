@@ -1,0 +1,4 @@
+Brain#size#largest organ
+Ears#quantity#0
+right temporal lobe#color#Grey
+Brain#belong to #the nervous system

@@ -1,0 +1,8 @@
+modality#type#CT
+liver#size#largest organ
+liver, Lung, Spleen#subclass of#organ
+liver#location#left
+Abdomen#part of#body
+scanning plane#method#Transverse  Plane
+Spleen#location#lower right corner of image
+kidney#quantity#0

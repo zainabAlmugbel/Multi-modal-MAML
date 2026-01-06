@@ -1,0 +1,4 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+Brain Edema, Brain Enhancing Tumor#subclass of#disease
+mr weighting#value#T2

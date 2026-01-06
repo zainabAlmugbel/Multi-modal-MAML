@@ -1,0 +1,9 @@
+Eyes#quantity#2
+scanning plane#method#Transverse Plane
+Eyes#subclass of#organ
+Head#subclass of#organ system
+Eyes#color#Black
+Brain#size#largest organ
+Eyes#belong to#sensory organs
+Temporal Lobe#subclass of#organ
+Eyes#shape#Circular

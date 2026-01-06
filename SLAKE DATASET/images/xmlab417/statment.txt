@@ -1,0 +1,7 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Mandible#color#White
+Spinal Cord#belong to#nervous system
+Brain#size#largest organ
+spinal cord#color#Grey
+Mandible#location#top of the image

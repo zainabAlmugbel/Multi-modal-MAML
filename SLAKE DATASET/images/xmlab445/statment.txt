@@ -1,0 +1,5 @@
+modality#type#MRI
+brain tumor#treatment#Medical treatment, supportive treatment, surgical treatment
+Brain Edema, Brain Enhancing Tumor#subclass of#disease
+mr weighting#value#T2
+Head#subclass of#organ

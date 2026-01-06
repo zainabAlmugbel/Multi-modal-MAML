@@ -1,0 +1,13 @@
+kidney#location#Symmetrical to the bone marrow
+modality#type#CT
+scanning plane#method#Transverse Plane
+Liver#condition#abnormal
+liver#size#largest organ
+Abdomen#part of#body
+liver, Spleen, kidney #subclass of#organ
+kidney#shape#Irregular
+kidney#quantity#2
+Spleen#bigger#kidney
+liver#color#grey
+liver#location#
+Liver Cancer#subclass of#disease

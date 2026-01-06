@@ -1,0 +1,8 @@
+Heart#subclass of#organ
+modality#type#CT
+scanning plane#method#Transverse Plane
+Lung#function#breathe
+Chest#subclass of# organ system
+spinal cord#subclass of#organ
+Heart#function#promote blood flow
+Lung#bigger#Heart

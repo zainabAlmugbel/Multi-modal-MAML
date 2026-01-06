@@ -1,0 +1,2 @@
+Pneumonia#location#on the right of lung
+Pneumonia#subclass of#disease

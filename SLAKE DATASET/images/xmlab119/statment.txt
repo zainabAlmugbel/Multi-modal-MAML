@@ -1,0 +1,3 @@
+modality#type#MRI
+Lung Cancer#subclass of#disease
+mr weighting#value#T2

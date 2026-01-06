@@ -1,0 +1,4 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+esophagus#shape#Irregular
+Trachea#belong to #respiratory system

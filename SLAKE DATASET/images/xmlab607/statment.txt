@@ -1,0 +1,7 @@
+Bladder#color#dark gray
+Rectum#location#bottom of image
+Rectum, Small Bowel#belong to# the digestive system
+Bladder#function#Store urine
+Rectum#smaller#bladder
+Bladder#location#top of image
+Rectum#smaller#small bowel

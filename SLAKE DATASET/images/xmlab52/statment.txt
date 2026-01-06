@@ -1,0 +1,7 @@
+modality#type#MRI
+Brain#subclass of#organ
+Brain Edema,#subclass of#disease
+Brain#size#largest organ
+mr weighting#value#T2
+Brain Edema#subclass of#disease
+Brain#condition#abnormal

@@ -1,0 +1,9 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Eyes#subclass of#organ
+Head#subclass of#organ system
+Brain#size#largest organ
+Eyes#belong to#sensory organs
+Eyes#shape#Circular
+brain stem#color#Grey
+parotids#quantity#0

@@ -1,0 +1,2 @@
+Pneumonia##location#on the lower left of lung
+Pneumonia#subclass of#disease

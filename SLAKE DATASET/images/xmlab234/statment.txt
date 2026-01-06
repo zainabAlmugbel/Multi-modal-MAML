@@ -1,0 +1,11 @@
+liver#location#Left and top
+modality#type#CT
+Spleen#location#rightmost
+Liver#condition#abnormal
+liver#size#largest organ
+scanning plane#method#Transverse Plane
+Abdomen#part of#body
+Liver#bigger#Spleen
+kidney#quantity#0
+Liver Cancer#subclass of#disease
+liver, Spleen#subclass of#organ

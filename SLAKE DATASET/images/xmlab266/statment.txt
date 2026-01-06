@@ -1,0 +1,11 @@
+Left Lung#location#on the right of the image
+modality#type#CT
+Heart#location#on the top of the body in image
+Right Lung#location#on the left of the image
+scanning plane#method#Transverse Plane
+Lung, Heart#subclass of#organ
+Right Lung#subclass of#organ
+Left Lung#subclass of#organ
+Pulmonary bronchus#description#white veins
+Lung#bigger#Heart
+Lung#size#largest organ

@@ -1,0 +1,6 @@
+modality#type#MRI
+scanning plane#method#Transverse Plane
+brain tumor#subclass of#disease
+right hemisphere#condition#healthy
+Head#subclass of#organ system
+brain tumor#treatment#Medical treatment, supportive treatment, surgical treatment

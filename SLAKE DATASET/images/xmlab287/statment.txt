@@ -1,0 +1,7 @@
+scanning plane#method#Transverse Plane
+modality#type#CT
+organs#quantity#2
+Lung#location#the black part of the image
+Liver#size#largest organ
+esophagus#location#black hole on the top of body
+Lung, esophagus#subclass of#organ

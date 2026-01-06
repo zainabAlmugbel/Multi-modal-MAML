@@ -1,0 +1,4 @@
+Spleen#location#rightmost in image
+Liver#location#on the left side of image, on the top of the body in image
+Liver#size#largest organ
+Liver Cancer#subclass of#disease

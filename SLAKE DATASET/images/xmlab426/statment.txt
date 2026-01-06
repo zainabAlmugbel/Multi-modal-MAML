@@ -1,0 +1,6 @@
+Larynx#shape#Oval
+modality#type#CT
+scanning plane#method#Transverse Plane
+Larynx#color#Black
+Larynx#function#Ventilation, pronunciation
+spinal cord#belong to#nervous system

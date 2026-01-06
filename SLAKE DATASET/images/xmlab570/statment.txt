@@ -1,0 +1,6 @@
+spleen#color#Gray
+Duodenum#smaller#spleen
+kidney#shape#Irregular
+spinal cord#subclass of#organ
+spleen#location#right
+lung#quantity#0

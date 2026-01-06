@@ -1,0 +1,12 @@
+Lung#function#Breathe
+chest#subclass of#organ system
+lung#color#black
+modality#type#X-Ray
+scanning plane#method#Coronal Plane
+cardiomegaly#location#Heart
+Cardiomegaly#subclass of#disease
+cardiomegaly#prevention#Live healthy, enhance physical fitness
+Lung#subclass of#respiratory system
+Chest#part of#body
+lung#quantity#2
+lung#condition#abnormal

@@ -1,0 +1,9 @@
+modality#type#CT
+scanning plane#method#Transverse Plane
+Liver#bigger#right kidney
+Liver, kidney#subclass of#organ
+Abdomen#part of#body
+kidney#shape#Irregular
+liver#location#Left of image
+kidney##quantity#2
+Liver#color#grey

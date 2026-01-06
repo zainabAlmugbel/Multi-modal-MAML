@@ -1,0 +1,5 @@
+Trachea#function#gas delivery
+scanning plane#method#Transverse Plane
+Spinal Cord#belong to#nervous system
+Trachea#location#on the top of this image
+trachea#shape#Irregular

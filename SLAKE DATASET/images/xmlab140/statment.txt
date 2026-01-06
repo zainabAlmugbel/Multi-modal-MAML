@@ -1,0 +1,6 @@
+Lung#condition#abnormal
+Infiltration#subclass of#disease
+modality#type#X-Ray
+Chest#part of#body
+Infiltration#location#Left Lung, Right
+Lung#size#largest organ
