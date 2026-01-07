@@ -35,10 +35,15 @@ Please fix the data paths on the .py files included in the dataloader folder.
 
 ################################ Arguments ##################################
 
-We have 9 Experiements, see 
+We have 9 Experiements: 
+|Exp 1 | Exp 2 | Exp 3 |  Exp 4 | Exp 5 | 
+|---------|:-------:|:-------:|:-------:|-------:|
+|<img alt="Exp 1" src="ExpImg/Exp1.png" width="250" >|<img alt="Exp 2" src="ExpImg/Exp2.png" width="220" >|<img alt="Exp 3" src="ExpImg/Exp3.png" width="220" >|<img alt="Exp 4" src="ExpImg/Exp4.png" width="220" >|<img alt="Exp 5" src="ExpImg/Exp5.png" width="220" >|
 
-<img alt="Exp 1" src="ExpImg/Exp1.png" width="230" >
-<img alt="Exp 2" src="ExpImg/Exp2.png" width="220" >
+|Exp 6 | Exp 7 | Exp 8 |  Exp 9 |
+|---------|:-------:|:-------:|-------:|
+|<img src="ExpImg/Exp6.png" width="230" >|<img src="ExpImg/Exp7.png" width="220" >|<img src="ExpImg/Exp8.png" width="220" >|<img src="ExpImg/Exp9.png" width="220" >|
+
 You can run by changing the configuration setting in Utils.py file.
 --exp_name determines the experiment [check the paper for more details]
 --text_encoder detemines textual feature extraction techniques
