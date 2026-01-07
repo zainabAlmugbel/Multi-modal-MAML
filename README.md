@@ -37,8 +37,8 @@ Please fix the data paths on the .py files included in the dataloader folder.
 
 We have 9 Experiements, see 
 
-<img alt= "Exp 1" src="ExpImg/Exp1.png" width="220" >
-<img alt= "Exp 2" src="ExpImg/Exp2.png" width="220" >
+<img alt="Exp 1" src="ExpImg/Exp1.png" width="230" >
+<img alt="Exp 2" src="ExpImg/Exp2.png" width="220" >
 You can run by changing the configuration setting in Utils.py file.
 --exp_name determines the experiment [check the paper for more details]
 --text_encoder detemines textual feature extraction techniques
