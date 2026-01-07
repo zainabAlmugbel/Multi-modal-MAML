@@ -35,7 +35,9 @@ Please fix the data paths on the .py files included in the dataloader folder.
 
 ################################ Arguments ##################################
 
-We have 9 Experiements that you can run by changing the configuration setting in Utils.py file.
+We have 9 Experiements, see 
+https://github.com/zainabAlmugbel/Multi-modal-MAML/ExpImg
+You can run by changing the configuration setting in Utils.py file.
 --exp_name determines the experiment [check the paper for more details]
 --text_encoder detemines textual feature extraction techniques
 --voc_size if you run Exp1, choose 200 else 350
