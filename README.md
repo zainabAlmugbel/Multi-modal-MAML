@@ -63,7 +63,7 @@ The values the give the highest accuracy with the three datasets are with the fo
 
 Exp2, 3, 4, 5 have same Exp 1 settings except voc_size is set to 350.
 
-Exp6, 8, 9 have the same text_encoder (Transformer), voc_size (350), step_size (100), mom (0.9) weight_decay (0.005).
+Exp6, 8, 9 have the same text_encoder (Transformer), voc_size (350), step_size (100), mom (0.9) weight_decay (0.0005).
 
 |exp_name | dataset  | lr | gd_lr|
 |---------|:-------:|:-------:|-------:|
